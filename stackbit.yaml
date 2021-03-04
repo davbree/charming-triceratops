@@ -34,7 +34,7 @@ models:
     type: config
     label: Site Configuration
     fields:
-      - type: string
+    - type: string
         name: title
         label: Title
         description: Site title
